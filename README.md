@@ -1,7 +1,6 @@
-Halo
-- Saya Ahmad Kubagus Subkhi
-- Saya mahasiswa di Universitas Muhammadiyah Semarang
-- Saat ini saya sedang mempelajari bahasa pemrograman php dan javascript.
+# Ahmad Kubagus Subkhi
+### Mahasiswa di Universitas Muhammadiyah Semarang
+Sedang mempelajari bahasa pemrograman php dan javascript.
 
 
 <!---
