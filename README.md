@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ikta
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning javascript,java,python
-- 💞️ I’m looking to collaborate on hmm, idk
+Halo
+Saya Ahmad Kubagus Subkhi
+Saya mahasiswa di Universitas Muhammadiyah Semarang
+Saat ini saya sedang mempelajari bahasa pemrograman php dan javascript.
 
 
 <!---
