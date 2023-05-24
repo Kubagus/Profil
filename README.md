@@ -1,7 +1,5 @@
-# Ahmad Kubagus Subkhi
-### Mahasiswa di Universitas Muhammadiyah Semarang
-Sedang mempelajari bahasa pemrograman php dan javascript.
-
+# Just a random weeb
+_Tech Enthusiast_
 
 <!---
 Ikta11/Ikta11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
